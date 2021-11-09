@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+
+li{
+    justify-content: space-between;
+    border: 1px solid black;
+  
+    padding: 20px;
+    margin: 5px;
+    
+    
+    }
+
